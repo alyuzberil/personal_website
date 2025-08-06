@@ -1,61 +1,54 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
-cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
-    relative: true
+title: "Ultra-fast High-Resolution Multi-Contrast Qualitative and Quantitative MRI of the Entire Brain in 3 minutes" 
+date: 2025-05-01
+tags: ["MRI","Deep Learning","Medical Imaging","Brain Imaging","Quantitative MRI","ISMRM"]
+author: ["B. Alyuz","S. Qiu","H-L Lee","C. Gao","S. Madhusoodhanan","N. Sicotte","P. Sati","Y. Xie","D. Li"]
+description: "Conference abstract accepted for ISMRM & ISMRT Annual Meeting & Exhibition 2025 with Magna Cum Laude Merit Award." 
+summary: "This conference abstract presents DeepAcq, an ultra-fast MRI acquisition and reconstruction framework enabling brain imaging in 3 minutes." 
+# cover:
+    # image: "paper2.png"
+    # alt: "Ultra-fast Brain MRI"
+    # relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+    URL: "https://www.ismrm.org/"
+    Text: "ISMRM 2025"
 
 ---
 
 ---
 
-##### Download
+##### Conference Details
 
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk-model)
+**Conference:** ISMRM & ISMRT Annual Meeting & Exhibition 2025  
+**Presentation Type:** Oral Presentation  
+**Award:** ISMRM Magna Cum Laude Merit Award 2025
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This work presents DeepAcq, an ultra-fast MRI acquisition and reconstruction framework that enables qualitative and quantitative brain imaging of the entire brain in just 3 minutes. The approach combines advanced deep learning techniques with novel acquisition protocols to achieve unprecedented speed while maintaining high image quality and quantitative accuracy.
 
 ---
 
-##### Figure 2: Dimensions of a sausage dog
+##### Award Recognition
 
-![](paper2.png)
+This abstract received the **ISMRM Magna Cum Laude Merit Award 2025**, given to the top 15% of abstracts within a major subject review category, recognizing the exceptional quality and impact of this research.
+
+---
+
+##### Key Contributions
+
+- Ultra-fast brain MRI acquisition protocols
+- Deep learning-based reconstruction techniques  
+- Multi-contrast imaging capabilities
+- Quantitative and qualitative assessment methods
+- Significant reduction in scan time from standard protocols
 
 ---
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
-
-```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
-```
+Alyuz, B., Qiu, S., Lee, H-L, Gao, C., Madhusoodhanan, S., Sicotte, N., Sati, P., Xie, Y., Li, D. 2025. "Ultra-fast High-Resolution Multi-Contrast Qualitative and Quantitative MRI of the Entire Brain in 3 minutes." *ISMRM & ISMRT Annual Meeting & Exhibition 2025*.
 
 ---
-
-##### Related material
-
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)

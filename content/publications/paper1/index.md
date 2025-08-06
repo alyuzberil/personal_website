@@ -1,17 +1,17 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
-cover:
-    image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
-    relative: true
+title: "Antibacterial properties and osteoblast interactions of microfluidically synthesized chitosan-SPION composite nanoparticles" 
+date: 2023-09-01
+tags: ["Magnetic Nanoparticles","Chitosan","SPION","Biomedical Engineering","Microfluidics","Antibacterial"]
+author: ["M. Kafali","O. B. Sahinoglu","Y. Tufan","Z. C. Orsel","E. Aygun","B. Alyuz","E. U. Saritas","E. Y. Erdem","B. Ercan"]
+description: "Published in Journal of Biomedical Materials Research Part A, investigating antibacterial properties of microfluidically synthesized composite nanoparticles." 
+summary: "This study explores the antibacterial properties and osteoblast interactions of chitosan-SPION composite nanoparticles synthesized using microfluidic techniques." 
+# cover:
+    # image: "paper1.png"
+    # alt: "Chitosan-SPION Nanoparticles"
+    # relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    URL: "https://doi.org/10.1002/jbm.a.37532"
+    Text: "Journal Article"
 
 ---
 
@@ -19,43 +19,41 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
++ [Journal Article](https://doi.org/10.1002/jbm.a.37532)
 
 ---
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This study investigates the antibacterial properties and osteoblast interactions of microfluidically synthesized chitosan-superparamagnetic iron oxide nanoparticle (SPION) composite nanoparticles. The research demonstrates the potential of these composite nanoparticles for biomedical applications, particularly in bone tissue engineering and antimicrobial treatments.
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+##### Publication Details
 
-![](paper1.png)
+**Journal:** Journal of Biomedical Materials Research Part A  
+**Volume:** 111, Issue 11  
+**Pages:** 1662–1677  
+**Year:** 2023  
+**DOI:** [10.1002/jbm.a.37532](https://doi.org/10.1002/jbm.a.37532)
 
 ---
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Kafali, M., Sahinoglu, O. B., Tufan, Y., Orsel, Z. C., Aygun, E., Alyuz, B., Saritas, E. U., Erdem, E. Y., and Ercan, B. 2023. "Antibacterial properties and osteoblast interactions of microfluidically synthesized chitosan - SPION composite nanoparticles." *Journal of Biomedical Materials Research Part A* 111 (11): 1662–1677.
 
 ```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@article{kafali2023antibacterial,
+  title={Antibacterial properties and osteoblast interactions of microfluidically synthesized chitosan-SPION composite nanoparticles},
+  author={Kafali, M. and Sahinoglu, O. B. and Tufan, Y. and Orsel, Z. C. and Aygun, E. and Alyuz, B. and Saritas, E. U. and Erdem, E. Y. and Ercan, B.},
+  journal={Journal of Biomedical Materials Research Part A},
+  volume={111},
+  number={11},
+  pages={1662--1677},
+  year={2023},
+  doi={10.1002/jbm.a.37532}
+}
 ```
 
 ---
-
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
