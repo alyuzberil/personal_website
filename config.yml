@@ -51,7 +51,7 @@ params:
           title: Beril Alyuz Yilmaz
           subtitle: "I am a PhD student in Bioengineering at UCLA, focusing on MRI, Deep Learning, Computer Vision, Image Reconstruction & Synthesis, and Super-resolution. Previously, I completed my MSc in Electrical and Electronics Engineering at Bilkent University."
           imageUrl: "picture.jpeg"
-          imageWidth: 160
+          imageWidth: 120
           imageHeight: 160
           buttons:
             - name: Publications
