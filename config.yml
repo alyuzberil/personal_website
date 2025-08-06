@@ -12,21 +12,15 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Publications
+          url: publications/
+          weight: 1
+        - name: Talks
+          url: talks/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Resume
+          url: BAY_CV_2025.pdf
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
 
 params:
     description: "This website hosts Beril Alyuz Yilmaz's research papers, publications, course materials, curriculum vitae, and contact information."
@@ -44,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["publications"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -60,24 +54,14 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Publications
+              url: publications/
+            - name: Talks
+              url: talks/
+            - name: Resume
+              url: BAY_CV_2025.pdf
 
     socialIcons:
-        - name: CV
-          url: BAY_CV_2025.pdf
         - name: Email
           url: mailto:alyuzberil@gmail.com
         - name: GitHub
