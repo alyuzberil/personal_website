@@ -80,14 +80,6 @@ params:
           url: BAY_CV_2025.pdf
         - name: Email
           url: mailto:alyuzberil@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/berilalyuz
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=BERIL_SCHOLAR_ID
         - name: GitHub
           url: https://github.com/alyuzberil
         - name: LinkedIn
