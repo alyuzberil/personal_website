@@ -11,9 +11,15 @@ summary: "This conference abstract presents novel single-pass relaxation mapping
     # relative: true
 editPost:
     URL: "https://journal.iwmpi.org/"
-    Text: "IJMPI 2023"
+    Text: "IJMPI"
 
 ---
+
+---
+
+##### Download
+
++ [Abstract](https://www.journal.iwmpi.org/index.php/iwmpi/article/view/623)
 
 ---
 
@@ -22,14 +28,13 @@ editPost:
 **Journal:** International Journal on Magnetic Particle Imaging (IJMPI)  
 **Volume:** 9, Issue 1, Suppl 1  
 **Conference:** 12th International Workshop on Magnetic Particle Imaging (IWMPI)  
-**Year:** 2023  
-**Presentation Type:** Poster
+**Year:** 2023 
 
 ---
 
 ##### Abstract
 
-This work presents single-pass relaxation mapping techniques at multiple frequencies using an arbitrary waveform Magnetic Particle Imaging (MPI) scanner. The approach enables efficient characterization of magnetic nanoparticles across different frequency ranges within a single measurement, significantly improving the efficiency of relaxation parameter estimation in MPI.
+In Magnetic Particle Imaging (MPI), relaxation behavior of magnetic nanoparticles (MNPs) has enabled the inference of information about different MNP types and their local environments, such as viscosity and temperature. Previously, we have proposed and demonstrated an arbitrary waveform (AW) MPI scanner that facilitates operation in a wide range of drive field (DF) frequencies by eliminating the need for impedance matching. In this work, we propose a technique for simultaneous relaxation mapping at multiple DF frequencies in a single pass using an AW MPI scanner.
 
 ---
 

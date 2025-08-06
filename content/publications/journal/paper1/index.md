@@ -10,8 +10,8 @@ summary: "This study explores the antibacterial properties and osteoblast intera
     # alt: "Chitosan-SPION Nanoparticles"
     # relative: true
 editPost:
-    URL: "https://doi.org/10.1002/jbm.a.37532"
-    Text: "Journal Article"
+    URL: "https://onlinelibrary.wiley.com/journal/15524965"
+    Text: "Journal of Biomedical Materials Research Part A"
 
 ---
 
@@ -19,7 +19,7 @@ editPost:
 
 ##### Download
 
-+ [Journal Article](https://doi.org/10.1002/jbm.a.37532)
++ [Journal Article](https://onlinelibrary.wiley.com/doi/10.1002/jbm.a.37575)
 
 ---
 
@@ -35,7 +35,7 @@ This study investigates the antibacterial properties and osteoblast interactions
 **Volume:** 111, Issue 11  
 **Pages:** 1662–1677  
 **Year:** 2023  
-**DOI:** [10.1002/jbm.a.37532](https://doi.org/10.1002/jbm.a.37532)
+**DOI:** [10.1002/jbm.a.37575](https://onlinelibrary.wiley.com/doi/10.1002/jbm.a.37575)
 
 ---
 
@@ -52,7 +52,7 @@ Kafali, M., Sahinoglu, O. B., Tufan, Y., Orsel, Z. C., Aygun, E., Alyuz, B., Sar
   number={11},
   pages={1662--1677},
   year={2023},
-  doi={10.1002/jbm.a.37532}
+  doi={10.1002/jbm.a.37575}
 }
 ```
 

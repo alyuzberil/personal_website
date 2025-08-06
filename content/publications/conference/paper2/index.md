@@ -21,7 +21,7 @@ editPost:
 
 **Conference:** ISMRM & ISMRT Annual Meeting & Exhibition 2025  
 **Presentation Type:** Oral Presentation  
-**Award:** ISMRM Magna Cum Laude Merit Award 2025
+**Award:** [ISMRM Magna Cum Laude Merit Award 2025](https://www.ismrm.org/25/docs/25-Magna.pdf)
 
 ---
 
@@ -50,5 +50,14 @@ This abstract received the **ISMRM Magna Cum Laude Merit Award 2025**, given to 
 ##### Citation
 
 Alyuz, B., Qiu, S., Lee, H-L, Gao, C., Madhusoodhanan, S., Sicotte, N., Sati, P., Xie, Y., Li, D. 2025. "Ultra-fast High-Resolution Multi-Contrast Qualitative and Quantitative MRI of the Entire Brain in 3 minutes." *ISMRM & ISMRT Annual Meeting & Exhibition 2025*.
+
+```BibTeX
+@inproceedings{alyuz2025ultra,
+  title={Ultra-fast High-Resolution Multi-Contrast Qualitative and Quantitative MRI of the Entire Brain in 3 minutes},
+  author={Alyuz, B. and Qiu, S. and Lee, H-L and Gao, C. and Madhusoodhanan, S. and Sicotte, N. and Sati, P. and Xie, Y. and Li, D.},
+  booktitle={ISMRM \& ISMRT Annual Meeting \& Exhibition},
+  year={2025}
+}
+```
 
 ---
