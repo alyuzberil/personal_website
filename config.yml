@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://alyuzberil.github.io/" 
+title: Beril Alyuz Yilmaz
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -29,8 +29,8 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Beril Alyuz Yilmaz's research papers, publications, course materials, curriculum vitae, and contact information."
+    author: Beril Alyuz Yilmaz
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -54,8 +54,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Beril Alyuz Yilmaz
+          subtitle: "I am a PhD student in Bioengineering at UCLA, focusing on MRI, Deep Learning, Computer Vision, Image Reconstruction & Synthesis, and Super-resolution. Previously, I completed my MSc in Electrical and Electronics Engineering at Bilkent University."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -77,27 +77,23 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: BAY_CV_2025.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
+          url: mailto:alyuzberil@gmail.com
         - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: https://www.zoom.us/my/berilalyuz
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=BERIL_SCHOLAR_ID
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://github.com/alyuzberil
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/alyuzberil/
+        - name: Phone
+          url: tel:+13108738065
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +101,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Beril Alyuz Yilmaz"
       icon: favicon.ico
       iconHeight: 18
 
